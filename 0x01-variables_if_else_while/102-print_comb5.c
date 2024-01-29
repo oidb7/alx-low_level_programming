@@ -5,7 +5,7 @@
  *
  * Des: prints all possible combinations of two two-digit numbers
  *
- * retyrn: 0 (success)
+ * Return: 0 (success)
  */
 
 int main(void)
