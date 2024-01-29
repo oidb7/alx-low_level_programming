@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * mian - the entry point
+ * main - the entry point
  *
- * Des: prints alphabets in reverse
+ * This program prints the lowercase alphabet in reverse
  *
  * Return: 0 (success)
  */
