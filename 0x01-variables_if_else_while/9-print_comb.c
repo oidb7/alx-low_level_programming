@@ -5,7 +5,7 @@
  *
  * Des: program that prints all possible combinations of single-digit numbers
  *
- * Retrn: 0 (success)
+ * Return: 0 (success)
  */
 
 int main(void)
