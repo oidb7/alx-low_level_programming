@@ -1,10 +1,24 @@
 #include "main.h"
 
+/**
+ * print_2digits - prints tow digits of a number
+ *
+ * @num: number to print
+ *
+ * return: void
+ */
+
 void print_2digits(int num)
 {
 	_putchar('0' + num / 10);
 	_putchar('0' + num % 10);
 }
+
+/**
+ * jack_bauer - prints all hours and minutes
+ *
+ * Return: void
+ */
 
 void jack_bauer(void)
 {
@@ -19,15 +33,8 @@ void jack_bauer(void)
 			_putchar(':');
 
 			print_2digits(minute);
-			
+
 			_putchar('\n');
 		}
 	}
-}
-
-int main(void)
-{
-	jack_bauer();
-
-	return (0);
 }
