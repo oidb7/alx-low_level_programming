@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_2digits - prints tow digits of a number
+ * print_2digits - prints number using _putchar
  *
  * @num: number to print
  *
